@@ -60,9 +60,9 @@ General preformatted text:
 
 Python code and output:
 
-```python
+```javascript
 # Prints '2'
-print(1+1)
+console.log('thisis fine')
 ```
 
     2
